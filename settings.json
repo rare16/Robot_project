@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "myenv\\Scripts\\python.exe", // Adjust for your virtual environment
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black"
+}
